@@ -2,8 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3000",
-  "homepage": "https://sheltontolbert.github.io/sheltontolbert.github.io",
+  "homepage": "https://sheltontolbert.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
