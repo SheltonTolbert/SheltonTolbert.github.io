@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "predeploy": "yarn build",
+  "homepage": "http://sheltontolbert.github.io/sheltontolbert.github.io",
   "deploy": "gh-pages -d build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
